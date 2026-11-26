@@ -2,7 +2,7 @@
   <img src="docs/assets/hero.png" alt="Day 13 Lab: đọc point cloud VF và vẽ cuboid 3D đầu tiên" width="100%">
 </p>
 
-# Day 13 Lab — Đọc point cloud VF và vẽ cuboid 3D đầu tiên
+# Day 13 Lab — 2A202603354 - Nguyễn Tiến Thịnh
 
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
@@ -62,9 +62,9 @@ Script chọn **10 frame cố định theo mã số**, hai frame mỗi sequence,
 
 | Sản phẩm | Ở đâu |
 |---|---|
-| Task CVAT `D13-<MÃ SỐ>` với 60–70 cuboid đã Save | CVAT trên máy bạn |
-| **Bảng A**: 7 tham số, khoảng cách, đáy cuboid của từng cuboid | `submission/D13-<MÃ SỐ>-bangA.csv` (commit vào repo) |
-| **Phiếu tự kiểm**: số điểm trong cuboid, khoảng hở với mặt đường, cảnh báo | `submission/D13-<MÃ SỐ>-tukiem.csv` (commit vào repo) |
+| Task CVAT `D13-2A202603354` với 60–70 cuboid đã Save | CVAT trên máy bạn |
+| **Bảng A**: 7 tham số, khoảng cách, đáy cuboid của từng cuboid | `submission/D13-2A202603354-bangA.csv` (commit vào repo) |
+| **Phiếu tự kiểm**: số điểm trong cuboid, khoảng hở với mặt đường, cảnh báo | `submission/D13-2A202603354-tukiem.csv` (commit vào repo) |
 | 11 ảnh chụp màn hình (đọc frame, cuboid mẫu, bốn hiện tượng) | `report/individual/images/` (nén bằng `pack`, nộp LMS, không commit) |
 | **Một báo cáo duy nhất**: đọc frame, cuboid mẫu, bốn hiện tượng, số đo, điều còn chưa chắc | `report/individual/<MSSV>_<HoTen>.md` (commit vào repo) |
 
